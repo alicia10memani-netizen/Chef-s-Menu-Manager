@@ -18,5 +18,7 @@ Chef's Menu Manager is a mobile application developed using React Native. The ap
 - React Native
 - Expo Snack
 - JavaScript
+# Chef's Menu Manager App Link
+https://snack.expo.dev/@nwabisa/chefs-menu-item?platform=android 
 # Author
 Aviwe Alicia Memani
