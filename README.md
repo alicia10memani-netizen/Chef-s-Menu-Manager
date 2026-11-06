@@ -1,7 +1,7 @@
 # Chef-s-Menu-Manager
 A Reactive Native mobile application that allows a chef to add and view restaurant menu items.
 # About the Project
-Chef's Menu Manager is a mobile application developed using React Native. The application helps a chef manage restaurant menu items using a mobile device. The chef can add menu items by entering the dish name, description, course, and price.
+Chef's Menu Manager is a mobile application developed using React Native. The application helps a chef manage restaurant menu items using a mobile device. The chef can add menu items by entering the dish name, description, course, and price. Edit existing dishes, delete dishes, search for items, filter by course and view menu statistics.
 # Features
 - Add menu items
 - Enter a dish name
